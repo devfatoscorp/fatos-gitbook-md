@@ -8,7 +8,7 @@ description: 'Search by POI such as airports, parks, mines, or gas station'
 See the [**API Key Issuance page**](../../get-your-api-key.md) ****for information on using keys.
 {% endhint %}
 
-{% api-method method="get" host="https://maps.fatos.biz" path="/onemap/api/search/POI" %}
+{% api-method method="get" host="https://maps.fatos.biz" path="/fatos/api/search/POI" %}
 {% api-method-summary %}
 POI Search
 {% endapi-method-summary %}
