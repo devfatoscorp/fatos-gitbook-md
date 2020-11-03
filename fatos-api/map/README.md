@@ -6,7 +6,16 @@ description: Everything about map and its properties
 
 ### Introduction
 
-**FATOS map is a JavaScript library that uses WebGL to rendering maps while interacting with users in a vector tile type.**
+FATOS map is a JavaScript library that uses WebGL to rendering maps while interacting with users in a vector tile type. 
+
+To use "FATOS Map", you must request an API key and then apply that key to the source. If you want an API key, please go to [https://console.fatos.biz](http://console.fatos.biz/) and request an API key after sign up.
+
+Please let us know if you have any technical problems using our SDK   
+Contact : [dev@fatoscorp.com](mailto:dev@fatoscorp.com)
+
+{% hint style="info" %}
+**If you are a OneMap user, kindly request to** [**https://onemap-console.fatos.biz**](http://onemap-console.fatos.biz/)
+{% endhint %}
 
 ![](../../.gitbook/assets/fatosmap.png)
 
