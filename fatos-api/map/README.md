@@ -17,7 +17,7 @@ Contact : [dev@fatoscorp.com](mailto:dev@fatoscorp.com)
 **If you are a OneMap user, kindly request to** [**https://onemap-console.fatos.biz**](http://onemap-console.fatos.biz/)
 {% endhint %}
 
-![](../../.gitbook/assets/fatosmap.png)
+![](../../.gitbook/assets/2020-11-03-3.39.57.png)
 
 ### Description
 
