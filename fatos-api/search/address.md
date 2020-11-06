@@ -8,7 +8,7 @@ description: Find a location by an address
 See the [**API Key Issuance page**](../../get-your-api-key.md) ****for information on using keys.
 {% endhint %}
 
-{% api-method method="get" host="https://maps.fatos.biz" path="/fatos/api/search/ADDR" %}
+{% api-method method="get" host="https://api.fatos.biz" path="/search/v1/addr" %}
 {% api-method-summary %}
 Address
 {% endapi-method-summary %}

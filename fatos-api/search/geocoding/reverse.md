@@ -10,7 +10,7 @@ Reverse geocoding uses latitude and longitude information to provide an address.
 See the [**API Key Issuance page**](../../../get-your-api-key.md) ****for information on using keys.
 {% endhint %}
 
-{% api-method method="get" host="https://maps.fatos.biz" path="/fatos/api/geocoding/reverse" %}
+{% api-method method="get" host="https://api.fatos.biz" path="/search/v1/geocoding/reverse" %}
 {% api-method-summary %}
 Reverse Geocoding
 {% endapi-method-summary %}

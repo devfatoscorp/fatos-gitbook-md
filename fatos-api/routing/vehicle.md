@@ -14,7 +14,7 @@ With the Routing API, you can:
 See the [**API Key Issuance page**](../../get-your-api-key.md) ****for information on using keys.
 {% endhint %}
 
-{% api-method method="get" host="https://maps.fatos.biz" path="/fatos/api/route" %}
+{% api-method method="get" host="https://api.fatos.biz" path="/fatos/api/route" %}
 {% api-method-summary %}
 Routing API
 {% endapi-method-summary %}

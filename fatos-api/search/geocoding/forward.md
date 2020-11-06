@@ -10,7 +10,7 @@ Forward geocoding uses address information to return the coordinates of the area
 See the [**API Key Issuance page**](../../../get-your-api-key.md) ****for information on using keys.
 {% endhint %}
 
-{% api-method method="get" host="https://maps.fatos.biz" path="/fatos/api/geocoding/forward" %}
+{% api-method method="get" host="https://api.fatos.biz" path="/search/v1/geocoding/forward" %}
 {% api-method-summary %}
 Forward Geocoding
 {% endapi-method-summary %}
