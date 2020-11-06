@@ -47,8 +47,8 @@ let opt2 = {
 	padding: 10	        // 10 for top, bottom, right, and left.
 }
 
-map.fitBounds(fit, opt);
-map2.fitBounds(fit, opt2);
+mapInstance.fitBounds(fit, opt);
+mapInstance2.fitBounds(fit, opt2);
 
 
 ```
