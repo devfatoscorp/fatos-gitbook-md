@@ -9,7 +9,7 @@ description: Event detection
 Adds a one-time listener for an initial occurrence of a specific event on a given layer.
 
 ```javascript
-mapInstance.once(type, layerId, listener);
+map.once(type, layerId, listener);
 ```
 
 #### Parameter
@@ -24,12 +24,12 @@ Parameters for "once" is same as "on" or "off" function.
 
 ```javascript
 // Event listener once click
-mapInstance.once("click", function (e) {
+map.once("click", function (e) {
     console.log("Click >>>>>>>", e)  
 })
 
 // Event listener once mouseover
-mapInstance.once("mouseover", "fatosmarker", function (e) P
+map.once("mouseover", "fatosmarker", function (e) P
     if(e.originalEvent.toElement.id){
        console.log("Mouseover>>>>>>>", e)
     }
