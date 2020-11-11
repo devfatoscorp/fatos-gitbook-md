@@ -26,11 +26,11 @@ Reverse Geocoding
 Your API Key.
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="cy" type="string" required=true %}
+{% api-method-parameter name="lat" type="string" required=true %}
 Y coordinate of the search target
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="cx" type="string" required=true %}
+{% api-method-parameter name="lon" type="string" required=true %}
 X coordinate of the search target
 {% endapi-method-parameter %}
 {% endapi-method-query-parameters %}

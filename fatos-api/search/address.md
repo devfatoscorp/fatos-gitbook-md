@@ -34,11 +34,11 @@ Search type: 2 \(for address search\)
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="cx" type="string" required=true %}
-User's current location X coordinate \(wgs84\) \(Longitude\)
+User's current location X coordinate \(wgs84\)
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="cy" type="string" required=true %}
-User's current location Y coordinate \(wgs84\) \(Latitude\)
+User's current location Y coordinate \(wgs84\)
 {% endapi-method-parameter %}
 {% endapi-method-query-parameters %}
 {% endapi-method-request %}
