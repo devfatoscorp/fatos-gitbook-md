@@ -6,7 +6,11 @@ Release Note provides high-level coverage of improvements and deprecation of FAT
 
 {% page-ref page="fatos-map-api.md" %}
 
-{% page-ref page="api-server/" %}
+{% page-ref page="api-server.md" %}
+
+{% page-ref page="rp-api.md" %}
+
+
 
 
 

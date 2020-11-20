@@ -1,4 +1,4 @@
-# FATOS Map API
+# RP Server
 
 ## 2.4.8 - 2020-11-17
 
