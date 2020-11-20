@@ -5,10 +5,12 @@
 ### New
 
 * Added a automated health check module.
+* gRPC client has been added
 
-### Changed
+### Improved / Changed
 
 * Improved server stability.
+* Enhanced procedures for routing plan
 
 ### Bug Fix
 
