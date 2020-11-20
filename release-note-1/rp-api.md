@@ -4,13 +4,8 @@
 
 ### New
 
-* Added a automated health check module.
+* Added logics for interaction with gRPC
+* Applied Protobuf Messaging scheme between client and server via gRPC
 
-### Improved / Changed
-
-* Improved server stability.
-
-### Bug Fix
-
-* What has been fixed
+### 
 
