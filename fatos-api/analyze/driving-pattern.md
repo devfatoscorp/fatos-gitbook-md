@@ -15,11 +15,23 @@ Returns driving pattern statistics for distance and time charts.
 
 {% api-method-spec %}
 {% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="" type="string" required=false %}
-
+{% api-method-query-parameters %}
+{% api-method-parameter name="key" type="string" required=true %}
+Your API Key
 {% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
+
+{% api-method-parameter name="uuid" type="string" required=true %}
+Target UUID
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="gid" type="string" required=true %}
+Trip ID
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="tzone" type="string" required=false %}
+Timezone
+{% endapi-method-parameter %}
+{% endapi-method-query-parameters %}
 {% endapi-method-request %}
 
 {% api-method-response %}

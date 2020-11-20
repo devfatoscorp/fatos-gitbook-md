@@ -39,11 +39,11 @@ Nearby search: 3
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="cx" type="string" required=true %}
-User's current location X coordinate \(wgs84\)
+User's current location X coordinate \(wgs84\) \(Longitude\)
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="cy" type="string" required=true %}
-User's current location Y coordinate \(wgs84\)
+User's current location Y coordinate \(wgs84\) \(Latitude\)
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="rad" type="string" required=true %}

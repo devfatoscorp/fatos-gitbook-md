@@ -52,7 +52,7 @@ The map object represents a map of the screen. It provides methods and propertie
 <script type="text/javascript" src="https://maps.fatos.biz/dist/fatosmap-gl.js"></script>
 <script>
     let LatLng = {lat: 1.28516, lng: 103.84738}
-    let map = new fatosmap.maps.Map(
+    let mapInstance = new fatosmap.maps.Map(
         document.getElementById("app"),
         {
             zoom: 14,

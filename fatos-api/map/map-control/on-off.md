@@ -10,10 +10,10 @@ Adds or removes a listener for a specific event on a given layer.
 
 ```text
 // Adds a listener
-map.on(type, layerId, listener);
+mapInstance.on(type, layerId, listener);
 
 // Removes a listener
-map.off(type, layerId, listener);
+mapInstance.off(type, layerId, listener);
 ```
 
 #### Parameter
@@ -29,24 +29,24 @@ map.off(type, layerId, listener);
 
 ```javascript
 // Event listener on click
-map.on("click", function (e) {
+mapInstance.on("click", function (e) {
     console.log("Click >>>>>>>", e)  
 })
 
 // Event listener on mouseover
-map.on("mouseover", "fatosmarker", function (e) P
+mapInstance.on("mouseover", "fatosmarker", function (e) P
     if(e.originalEvent.toElement.id){
        console.log("Mouseover>>>>>>>", e)
     }
 })
 
 // Removes an event listener on click
-map.off("click", function (e) {
+mapInstance.off("click", function (e) {
     console.log("Click >>>>>>>", e)  
 })
 
 // Removes an event listener on mouseover
-map.off("mouseover", "fatosmarker", function (e) P
+mapInstance.off("mouseover", "fatosmarker", function (e) P
     if(e.originalEvent.toElement.id){
        console.log("Mouseover>>>>>>>", e)
     }

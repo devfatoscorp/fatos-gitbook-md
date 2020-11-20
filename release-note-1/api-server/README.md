@@ -1,10 +1,22 @@
 # API Server
 
-### 
+## 15.0.0 - 2042-12-03
 
-{% page-ref page="rp-api.md" %}
+### Fixed
 
-{% page-ref page="search-api.md" %}
+* What has been fixed
 
+### Changed
 
+* What has been changed
+
+## 14.0.0 - 2042-10-06
+
+### Added
+
+* What feature has been added
+
+### Deprecated
+
+* What feature has been deprecated
 
