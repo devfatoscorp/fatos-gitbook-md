@@ -60,4 +60,9 @@
 * [Definition](definition.md)
 * [Release note](release-note.md)
 * [Get your API Key](get-your-api-key.md)
+* [Release Note](release-note-1/README.md)
+  * [FATOS Map API](release-note-1/fatos-map-api.md)
+  * [API Server](release-note-1/api-server/README.md)
+    * [RP API](release-note-1/api-server/rp-api.md)
+    * [Search API](release-note-1/api-server/search-api.md)
 
