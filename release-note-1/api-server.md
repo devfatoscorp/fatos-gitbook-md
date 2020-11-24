@@ -12,9 +12,7 @@
 * Improved server stability.
 * Enhanced procedures for routing plan
 
-### Bug Fix
 
-* What has been fixed
 
 ### 
 

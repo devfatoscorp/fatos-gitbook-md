@@ -10,7 +10,5 @@
 
 * Improved server stability.
 
-### Bug Fix
 
-* What has been fixed
 
