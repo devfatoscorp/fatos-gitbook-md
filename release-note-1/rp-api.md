@@ -2,9 +2,10 @@
 
 ## 2.4.0 - 2020-11-16
 
-### Improved / Changed
+### New
 
-* Reinforced stability and performance of routing plan
+* Added logics for interaction with gRPC
+* Applied Protobuf Messaging scheme between client and server via gRPC
 
 ### 
 
