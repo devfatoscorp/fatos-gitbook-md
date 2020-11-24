@@ -58,7 +58,6 @@
       * [Start](fatos-sdk/platform/react/start.md)
       * [Component](fatos-sdk/platform/react/component.md)
 * [Definition](definition.md)
-* [Release note](release-note.md)
 * [Get your API Key](get-your-api-key.md)
 * [Release Note](release-note-1/README.md)
   * [FATOS Map API](release-note-1/fatos-map-api.md)
