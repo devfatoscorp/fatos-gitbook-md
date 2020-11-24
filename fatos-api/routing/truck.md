@@ -42,7 +42,7 @@ Your API Key
 Waypoint \(lat, lng\), In the case of multiple waypoints, list them in order in the query string.
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="car" type="integer" required=false %}
+{% api-method-parameter name="cartype" type="integer" required=false %}
 car type   
 4. Heavy truck  
 5. Very heavy truck  
