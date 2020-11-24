@@ -4,8 +4,7 @@
 
 ### New
 
-* Added a automated health check module.
-
+* 
 ### Improved / Changed
 
 * Improved server stability.
