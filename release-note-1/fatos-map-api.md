@@ -4,13 +4,10 @@
 
 ### New
 
-* Added a automated health check module.
-
+* 
 ### Improved / Changed
 
 * Improved server stability.
 
-### Bug Fix
 
-* What has been fixed
 
