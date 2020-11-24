@@ -4,7 +4,7 @@ description: Convert geographic coordinates into addresses
 
 # Geocoding
 
-Reverse geocoding uses latitude and longitude information to provide an address. An optional description of the zoom level provides information suitable for the OpenLayers room level.
+Geocoding uses latitude and longitude information to provide an address. An optional description of the zoom level provides information suitable for the OpenLayers room level.
 
 {% hint style="info" %}
 See the [**API Key Issuance page**](../../get-your-api-key.md) ****for information on using keys.
